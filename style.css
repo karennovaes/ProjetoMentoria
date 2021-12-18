@@ -20,7 +20,6 @@ header {
     width: 80%;
     height: 50px;
     margin: auto;
-    border: 1px solid #000;
 }
 
 .logo {
@@ -28,5 +27,13 @@ header {
     height: auto;
     overflow: hidden;
     float: left;
-    color: #1c0329;
+    margin-top: 20px;
+}
+
+.logo img {
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border-radius: 50%;
+    border: 2px solid #4b3e52;
 }

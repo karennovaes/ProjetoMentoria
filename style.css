@@ -70,7 +70,8 @@ header {
 }
 
 #sobre {
-    background-color: blue;
+    background-image: linear-gradient(60deg, #200b38, #8357b5);
+    display: flex;
 }
 
 .content .box p {
